@@ -1,4 +1,4 @@
-Hi there, :wave
+Hi there,👋
 
 
 This repo has the list of projects from basic
