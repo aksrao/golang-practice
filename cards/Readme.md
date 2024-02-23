@@ -1,14 +1,15 @@
-this project for understanding
-##features of this proejct
+This project's outcomes
+
+Features of this proejct
 - create a new deck
 - deal a the deck
 - save the deck to file
 - read the deck fromm the file
 - shuffle the deck
 
-##what concept would you learn  
-- how to call a function from from another file. 
-- how to create custom types.
-- how to set a reciever for a function so that only a certain type of the variable can call it.
-- how to handle errors.
-- how to test the features of the project
+What concept would you learn  
+- How to call a function from from another file. 
+- How to create custom types.
+- How to set a reciever for a function so that only a certain type of the variable can call it.
+- How to handle errors.
+- How to test the features of the project
